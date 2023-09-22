@@ -1,5 +1,3 @@
-### `The idea for this project is taken from [here](https://www.knowledgehut.com/blog/web-development/react-js-projects-for-beginners)`
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### `Where I got the idea`
+
+Got the idea for this project from [https://www.knowledgehut.com/blog/web-development/react-js-projects-for-beginners](https://www.knowledgehut.com/blog/web-development/react-js-projects-for-beginners)
+
